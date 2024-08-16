@@ -1,11 +1,10 @@
 [package]
 name = "hj_ds"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["HaojieZhang zhj630985214@gmail.com"]
 description = "A data structure library for Rust"
 license = "MIT OR Apache-2.0"
-documentation = "https://docs.rs/hj_ds"
 repository = "https://github.com/HaojieZhang6848/hj_ds"
 keywords = ["data-structure", "algorithm", "rust"]
 categories = ["data-structures", "algorithms"]
